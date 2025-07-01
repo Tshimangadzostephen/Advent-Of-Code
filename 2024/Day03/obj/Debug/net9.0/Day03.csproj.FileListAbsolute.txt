@@ -1,0 +1,15 @@
+C:\Users\TshimangadzoMunzhele\Downloads\STEPHEN\Advent-Of-Code\2024\Day03\bin\Debug\net9.0\Day03.exe
+C:\Users\TshimangadzoMunzhele\Downloads\STEPHEN\Advent-Of-Code\2024\Day03\bin\Debug\net9.0\Day03.deps.json
+C:\Users\TshimangadzoMunzhele\Downloads\STEPHEN\Advent-Of-Code\2024\Day03\bin\Debug\net9.0\Day03.runtimeconfig.json
+C:\Users\TshimangadzoMunzhele\Downloads\STEPHEN\Advent-Of-Code\2024\Day03\bin\Debug\net9.0\Day03.dll
+C:\Users\TshimangadzoMunzhele\Downloads\STEPHEN\Advent-Of-Code\2024\Day03\bin\Debug\net9.0\Day03.pdb
+C:\Users\TshimangadzoMunzhele\Downloads\STEPHEN\Advent-Of-Code\2024\Day03\obj\Debug\net9.0\Day03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TshimangadzoMunzhele\Downloads\STEPHEN\Advent-Of-Code\2024\Day03\obj\Debug\net9.0\Day03.AssemblyInfoInputs.cache
+C:\Users\TshimangadzoMunzhele\Downloads\STEPHEN\Advent-Of-Code\2024\Day03\obj\Debug\net9.0\Day03.AssemblyInfo.cs
+C:\Users\TshimangadzoMunzhele\Downloads\STEPHEN\Advent-Of-Code\2024\Day03\obj\Debug\net9.0\Day03.csproj.CoreCompileInputs.cache
+C:\Users\TshimangadzoMunzhele\Downloads\STEPHEN\Advent-Of-Code\2024\Day03\obj\Debug\net9.0\Day03.sourcelink.json
+C:\Users\TshimangadzoMunzhele\Downloads\STEPHEN\Advent-Of-Code\2024\Day03\obj\Debug\net9.0\Day03.dll
+C:\Users\TshimangadzoMunzhele\Downloads\STEPHEN\Advent-Of-Code\2024\Day03\obj\Debug\net9.0\refint\Day03.dll
+C:\Users\TshimangadzoMunzhele\Downloads\STEPHEN\Advent-Of-Code\2024\Day03\obj\Debug\net9.0\Day03.pdb
+C:\Users\TshimangadzoMunzhele\Downloads\STEPHEN\Advent-Of-Code\2024\Day03\obj\Debug\net9.0\Day03.genruntimeconfig.cache
+C:\Users\TshimangadzoMunzhele\Downloads\STEPHEN\Advent-Of-Code\2024\Day03\obj\Debug\net9.0\ref\Day03.dll
