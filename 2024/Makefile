@@ -30,3 +30,10 @@ run-day4-demo:
 
 run-day4-actual:
 	cd Day04 && dotnet run --actual
+	
+# Makefile for Day 05 of the 2024 Advent of Code
+run-day5-demo:
+	cd Day05 && dotnet run --demo
+
+run-day5-actual:
+	cd Day05 && dotnet run --actual
